@@ -1,8 +1,8 @@
 # mseed2EIDA
 
-1. [Command Line] (#command-line)
-1. [Select File] (#select-file)
-1. [Send File] (#send-file)
+1. [Command Line](#command-line)
+1. [Select File](#select-file)
+1. [Send File](#send-file)
 
 ## <a id='command-line'>Command Line Argument</a>
 Executing the code
