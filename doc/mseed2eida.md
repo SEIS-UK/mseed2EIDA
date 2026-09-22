@@ -15,10 +15,9 @@ To “query” the datasets to ensure only the specified data is sent, the “se
 
 <pre >
 #net sta  loc  chan  qual  start             end
-IU   ANMO *    BH?
-II   *    *    *     Q
-IU   COLA 00   LH[ENZ] R
-IU   COLA 00   LHZ   *     2008,100,10,00,00 2008,100,10,30,00
+XX   XXXA *    BH?
+XX   *    *    *  
+XX   XXXB *   [H,B,L]H[ENZ] 
 </pre>
 
 
